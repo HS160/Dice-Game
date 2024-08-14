@@ -1,10 +1,4 @@
 # Random number generator web app
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b8eb0635-b5b9-4c10-b868-a8399abc5233/deploy-status)](https://app.netlify.com/sites/zealous-bose-dc9093/deploys)
-
-https://www.codementor.io/projects/web/random-number-generator-web-app-bz042v8kll
-
-## Live Demo
-https://zealous-bose-dc9093.netlify.app/
 
 ## Introduction
 
